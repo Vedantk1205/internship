@@ -1,0 +1,161 @@
+.body{
+    margin: 0px;
+    padding: 0px;
+    height: 790px;
+    background-size: cover;
+    background-position: center;
+}
+.home{
+    background-color: rgb(237, 160, 16);
+    color: white;
+    width: 100px;
+    height: 35px;
+    border-radius: 10px;
+    font-family: arial;
+    font-size: 15px;
+    border: none;
+    margin-left: 500px;
+    margin-right: 25px;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.home:hover{
+    color: white;
+    background-color:rgb(237, 160, 16);
+    cursor: pointer;
+    opacity: 0.8;
+    box-shadow: 1px 1px 1px rgb(61, 53, 53);
+}
+.home:active{
+    color: white;
+    background-color:rgb(237, 160, 16);
+    cursor: pointer;
+    opacity: 0.6;
+    box-shadow: 1px 1px 1px rgb(58, 47, 47);
+}
+.best{
+    background-color: rgb(237, 160, 16);
+    color: white;
+    width: 100px;
+    height: 35px;
+    border-radius: 10px;
+    font-family: arial;
+    font-size: 15px;
+    border: none;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 30px;
+    display: inline-block;
+}
+.best:hover{
+    color: white;
+    background-color:rgb(237, 160, 16);
+    cursor: pointer;
+    opacity: 0.8;
+    box-shadow: 1px 1px 1px rgb(61, 53, 53);
+}
+.best:active{
+    color: white;
+    background-color:rgb(237, 160, 16);
+    cursor: pointer;
+    opacity: 0.6;
+    box-shadow: 1px 1px 1px rgb(58, 47, 47);
+}
+
+
+.contact{
+    background-color: rgb(237, 160, 16);
+    color: white;
+    width: 100px;
+    height: 35px;
+    border-radius: 10px;
+    font-family: arial;
+    font-size: 15px;
+    border: none;
+    margin-left: 25px;
+    margin-top: 30px;
+    display: inline-block;
+}
+.contact:hover{
+    color: white;
+    background-color:rgb(237, 160, 16);
+    cursor: pointer;
+    opacity: 0.8;
+    box-shadow: 1px 1px 1px rgb(61, 53, 53);
+}
+.contact:active{
+    color: white;
+    background-color:rgb(237, 160, 16);
+    cursor: pointer;
+    opacity: 0.6;
+    box-shadow: 1px 1px 1px rgb(58, 47, 47);
+}
+
+.login{
+    background-color: rgb(235, 17, 17);
+    color: white;
+    width: 100px;
+    height: 35px;
+    border-radius: 10px;
+    font-family: arial;
+    font-size: 15px;
+    border: none;
+    margin-left: 425px;
+    margin-top: 30px;
+    display: inline-block;
+}
+.login:hover{
+    opacity: 0.8;
+    box-shadow: 1px 1px 1px rgb(58, 47, 47);
+    cursor: pointer;
+    background-color: rgb(117, 26, 26);
+}
+.division{
+    display: inline-block;
+    width: 1500px;
+    height: 100px;
+}
+.inter{
+    font-size: 70px;
+    font-weight: bold;
+    color: aliceblue;
+    margin-left: 500px;
+    display: inline-block;
+}
+.button1{
+    background-color: red;
+    color: white;
+    width: 200px;
+    height: 35px;
+    border-radius: 15px;
+    border: none;
+    font-size: 15px;
+    font-weight: bold;
+    margin-left:600px;
+    display: inline-block;
+}
+.button1:hover{
+    opacity: 0.8;
+    box-shadow: 1px 1px 1px rgb(58, 47, 47);
+    cursor: pointer;
+    background-color: rgb(117, 26, 26);
+}
+.div2{
+    width: 1000px;
+    height: 300px;
+     margin-top:100px ;
+    margin-left: 100px;
+}
+.terms{
+    background-color: grey;
+    height: 40px;
+    width: 600px;
+}
+.image{
+    margin-top: 80px;
+    margin-left: 20px;
+    height: 70px;
+    width: 100px;
+    border-radius: 100px;
+}
